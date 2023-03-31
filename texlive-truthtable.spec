@@ -1,6 +1,6 @@
 Name:		texlive-truthtable
 Version:	60717
-Release:	1
+Release:	2
 Summary:	Automatically generate truth tables for given variables and statements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/truthtable
