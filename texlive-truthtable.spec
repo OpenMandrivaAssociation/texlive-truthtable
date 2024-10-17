@@ -3,7 +3,7 @@ Version:	68300
 Release:	1
 Summary:	Automatically generate truth tables for given variables and statements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/truthtable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/truthtable
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/truthtable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/truthtable.doc.r%{version}.tar.xz
